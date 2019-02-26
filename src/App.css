@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.song-info {
+  border: 1px dotted black;
+}
